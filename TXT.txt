@@ -1,0 +1,2 @@
+used iconscout.com for hamburger icon
+used swiperjs.com for slider
